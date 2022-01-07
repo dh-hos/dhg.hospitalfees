@@ -24,7 +24,7 @@
     <ROW Property="ARPURLINFOABOUT" Value="https://www.facebook.com/groups/dhg.hospital/"/>
     <ROW Property="ARPURLUPDATEINFO" Value="https://www.facebook.com/groups/dhg.hospital/"/>
     <ROW Property="Manufacturer" Value="DHG Pharma"/>
-    <ROW Property="ProductCode" Value="1033:{5C322520-13F2-409E-8C94-55EA7F353A29} " Type="16"/>
+    <ROW Property="ProductCode" Value="1033:{D462FBDE-43B2-4D46-9BBF-E04BDAA8DC5D} " Type="16"/>
     <ROW Property="ProductLanguage" Value="1033"/>
     <ROW Property="ProductName" Value="DHG.Hospital Fees"/>
     <ROW Property="ProductVersion" Value="3.17.0526.2" Type="32"/>
