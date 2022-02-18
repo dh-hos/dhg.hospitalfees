@@ -4,7 +4,7 @@
    "PathAdvancedInstallerCommandFile": "..\\Deploy_Tools\\BuildCommandFile.githubignore.txt",
    "PathAdvancedInstallerProjectFile": "..\\Deploy_Tools\\Setup.aip",
    "PathAdvancedInstallerOutputFolder": "..\\Deploy_Tools\\OutputFiles",
-   "OutputPackageName": "Fees.exe",
+   "OutputPackageName": "SetupFees.exe",
    "PathRcloneZip": "..\\Deploy_Tools\\rclone.exe.zip",
    "RcloneCloudPath": "",
    "IsShowConfig": false,
