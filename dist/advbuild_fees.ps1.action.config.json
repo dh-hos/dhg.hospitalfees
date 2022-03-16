@@ -102,7 +102,7 @@
       "SetupPrintDlg.dll",
       "ShockwaveFlashObjects.dll",
       "stdole.dll",
-      "XtraRPT.dll",
+      "XtraRPT.old.dll",
       "ChilkatDotNet4.dll",
       "DataTransferLib.dll",
       "EntityFramework.dll",
