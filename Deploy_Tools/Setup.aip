@@ -188,7 +188,6 @@
     <ROW Component="ShockwaveFlashObjects.dll" ComponentId="{47766886-B16D-447A-B235-2FBCB15CAB20}" Directory_="APPDIR" Attributes="0" KeyPath="ShockwaveFlashObjects.dll"/>
     <ROW Component="WebDriver.Support.dll" ComponentId="{73DBF797-5C4D-4217-88F9-116F3717B104}" Directory_="APPDIR" Attributes="0" KeyPath="WebDriver.Support.dll"/>
     <ROW Component="WebDriver.dll" ComponentId="{A77FAC3F-C2CA-482C-AC6F-8CDB885365E6}" Directory_="APPDIR" Attributes="0" KeyPath="WebDriver.dll"/>
-    <ROW Component="XtraRPT.dll" ComponentId="{DA7ED8AE-F31E-4F4D-A0D0-CEA93851BC6E}" Directory_="APPDIR" Attributes="0" KeyPath="XtraRPT.dll"/>
     <ROW Component="fhi360.hiv.DataTransfer.Intefaces.dll" ComponentId="{AD448262-A71C-4E40-A347-5320619F8403}" Directory_="APPDIR" Attributes="0" KeyPath="fhi360.hiv.DataTransfer.Intefaces.dll"/>
     <ROW Component="log4net.dll" ComponentId="{0F5B5C85-70FD-4E85-9B37-D0FCC9A267F4}" Directory_="APPDIR" Attributes="0" KeyPath="log4net.dll"/>
     <ROW Component="stdole.dll" ComponentId="{A879FC82-7D05-4A59-819E-E76AFF716253}" Directory_="APPDIR" Attributes="0" KeyPath="stdole.dll"/>
@@ -314,7 +313,6 @@
     <ROW File="SetupPrintDlg.dll" Component_="SetupPrintDlg.dll" FileName="SETUPP~1.DLL|SetupPrintDlg.dll" Version="65535.65535.65535.65535" Attributes="0" SourcePath="dhg.hospitalfees\Deploy_Libraries\SetupPrintDlg.dll" SelfReg="false"/>
     <ROW File="ShockwaveFlashObjects.dll" Component_="ShockwaveFlashObjects.dll" FileName="SHOCKW~1.DLL|ShockwaveFlashObjects.dll" Version="65535.65535.65535.65535" Attributes="0" SourcePath="dhg.hospitalfees\Deploy_Libraries\ShockwaveFlashObjects.dll" SelfReg="false"/>
     <ROW File="stdole.dll" Component_="stdole.dll" FileName="stdole.dll" Version="65535.65535.65535.65535" Attributes="0" SourcePath="dhg.hospitalfees\Deploy_Libraries\stdole.dll" SelfReg="false"/>
-    <ROW File="XtraRPT.dll" Component_="XtraRPT.dll" FileName="XtraRPT.dll" Version="65535.65535.65535.65535" Attributes="0" SourcePath="dhg.hospitalfees\Deploy_Libraries\XtraRPT.dll" SelfReg="false"/>
     <ROW File="OTH.GLib.dll" Component_="OTH.GLib.dll" FileName="OTHGLI~1.DLL|OTH.GLib.dll" Version="65535.65535.65535.65535" Attributes="0" SourcePath="dhg.hospitalfees\Deploy_Libraries\OTH.GLib.dll" SelfReg="false"/>
     <ROW File="WebDriver.dll" Component_="WebDriver.dll" FileName="WEBDRI~1.DLL|WebDriver.dll" Version="65535.65535.65535.65535" Attributes="0" SourcePath="dhg.hospitalfees\Deploy_Libraries\WebDriver.dll" SelfReg="false"/>
     <ROW File="WebDriver.Support.dll" Component_="WebDriver.Support.dll" FileName="WEBDRI~2.DLL|WebDriver.Support.dll" Version="65535.65535.65535.65535" Attributes="0" SourcePath="dhg.hospitalfees\Deploy_Libraries\WebDriver.Support.dll" SelfReg="false"/>
@@ -615,7 +613,6 @@
     <ROW Feature_="MainFeature" Component_="ShockwaveFlashObjects.dll"/>
     <ROW Feature_="MainFeature" Component_="WebDriver.Support.dll"/>
     <ROW Feature_="MainFeature" Component_="WebDriver.dll"/>
-    <ROW Feature_="MainFeature" Component_="XtraRPT.dll"/>
     <ROW Feature_="MainFeature" Component_="fhi360.hiv.DataTransfer.Intefaces.dll"/>
     <ROW Feature_="MainFeature" Component_="log4net.dll"/>
     <ROW Feature_="MainFeature" Component_="stdole.dll"/>
