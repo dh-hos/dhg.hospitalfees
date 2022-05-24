@@ -91,6 +91,7 @@ try {
     }
 }
 catch {}
+#End ProductDetail
 $arrayLines.Add('SetOutputLocation -buildname DefaultBuild -path {0}' -f $Config.PathAdvancedInstallerOutputFolder)
 $arrayLines.Add('SetPackageName {0} -buildname DefaultBuild' -f $Config.OutputPackageName)
 if ($Config.IsAddFileAPPDIR) {
