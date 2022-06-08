@@ -152,15 +152,14 @@
       "OTH.XForms.v.1.1.dll",
       "xNet.dll",
       "OTH.HddtVinhHuy.dll",
-      "MISA.MeInvoice.Lib2.dll",
-      "MISA.MeInvoice.DataContract.dll",
       "OTH.PAY.ViettinBank.Apis.Leasedline.dll",
       "OTH.PAY.ViettinBank.Apis.Net.dll",
       "OTH.PAY.ViettinBank.Crypto.dll",
       "OTH.PAY.ViettinBank.Hos.dll",
       "OTH.PAY.ViettinBank.Admin.dll",
       "OTH.PAY.ViettinBank.PrintPan.dll",
-      "OTH.PAY.SHB.Apis.dll"
+      "OTH.PAY.SHB.Apis.dll",
+      "API3.SDK.dll"
    ],
    "IsNewShortcut": true,
    "AdvancedInstallerShortcut": {
