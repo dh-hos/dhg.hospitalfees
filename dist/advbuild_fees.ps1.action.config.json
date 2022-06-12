@@ -18,6 +18,7 @@
    "OutputPackageName": "SetupFees.exe",
    "PathRcloneZip": "..\\Deploy_Tools\\rclone.exe.zip",
    "RcloneCloudPath": "",
+   "RcloneExcludeRemotes": "|bk-solano-onedrive-use-in-alias|",
    "IsShowConfig": false,
    "IsRunRcUpload": true,
    "IsAddFileAPPDIR": true,
