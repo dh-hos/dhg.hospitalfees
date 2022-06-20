@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/dh-hos/dhg.hospitalprinter/main/Deploy_Tools/Logo.ico" alt="Simple Icons" width=70>
-  <h2>DHG.Hospital Printer</h2>
+  <h2>DHG.Hospital Fees</h2>
   
-[Cài đặt](https://github.com/dh-hos/dhg.hospitalprinter/blob/main/README.md#t%E1%BA%ADp-tin-c%C3%A0i-%C4%91%E1%BA%B7t-setup-files) | [Cập nhật](https://github.com/dh-hos/dhg.hospitalprinter/blob/main/README.md#n%E1%BB%99i-dung-c%E1%BA%ADp-nh%E1%BA%ADt)
+[Cài đặt](https://github.com/dh-hos/dhg.hospitalfees/blob/main/README.md#t%E1%BA%ADp-tin-c%C3%A0i-%C4%91%E1%BA%B7t-setup-files) | [Cập nhật](https://github.com/dh-hos/dhg.hospitalfees/blob/main/README.md#n%E1%BB%99i-dung-c%E1%BA%ADp-nh%E1%BA%ADt)
   
 </div>
 
