@@ -160,7 +160,9 @@
       "OTH.PAY.ViettinBank.Admin.dll",
       "OTH.PAY.ViettinBank.PrintPan.dll",
       "OTH.PAY.SHB.Apis.dll",
-      "API3.SDK.dll"
+      "API3.SDK.dll",
+      "System.Net.Http.dll",
+      "System.Net.Http.Formatting.dll"
    ],
    "IsNewShortcut": true,
    "AdvancedInstallerShortcut": {
