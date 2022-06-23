@@ -4,4 +4,4 @@
 
 ##### [v3.22.0623.1]()
 
--  ✨: Bổ sung theo dõi nội dung cập nhật module Fees tại [Cập nhật](https://github.com/dh-hos/dhg.hospitalfees/blob/main/Deploy_Tools/CHANGELOG.md)
+-  ✨: Bổ sung theo dõi nội dung cập nhật module Fees [tại đây](https://github.com/dh-hos/dhg.hospitalfees/blob/main/Deploy_Tools/CHANGELOG.md)
