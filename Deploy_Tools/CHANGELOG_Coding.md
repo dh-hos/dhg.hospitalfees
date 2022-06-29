@@ -14,3 +14,6 @@
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/47 [OK]
 
 -  ✨: Yêu cầu trong nhật ký gửi Hóa đơn điện tử của VAT bổ sung thêm thời gian bắt đầu và kết thúc khi Lập hóa đơn điện tử. [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/52 [OK]
+-  ✨: Bổ sung lý do khi xóa hddt của Viettel vào trường `reasonDelete` [OK]

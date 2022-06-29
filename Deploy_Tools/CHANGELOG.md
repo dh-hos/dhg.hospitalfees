@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0629.5]()
+
+-  ✨: Bổ sung lý do khi xóa hddt của Viettel vào trường `reasonDelete`
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/52
+
 ##### [v3.22.0629.4]()
 
 -  ✨: Yêu cầu trong nhật ký gửi Hóa đơn điện tử của VAT bổ sung thêm thời gian bắt đầu và kết thúc khi Lập hóa đơn điện tử.
