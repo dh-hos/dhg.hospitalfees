@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0629.2]()
+
+-  #️⃣: Truyền thêm thông tin số tài khoản (phiếu thu) khi lập hóa đơn điện tử của VNPT. (đổi `ComBankNo` sang `CusBankNo`)
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/46
+
 ##### [v3.22.0629.1]()
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/49
