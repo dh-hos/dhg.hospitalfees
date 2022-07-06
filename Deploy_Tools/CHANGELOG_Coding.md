@@ -17,3 +17,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/52 [OK]
 -  ✨: Bổ sung lý do khi xóa hddt của Viettel vào trường `reasonDelete` [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/53 [OK]
+-  🐛: In phiếu thu trên lưới chứng từ thu chi thiếu matracuu_hddt [OK]

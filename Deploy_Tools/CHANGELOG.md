@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0706.1]()
+
+-  🐛: In phiếu thu trên lưới chứng từ thu chi thiếu matracuu_hddt
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/53
+
 ##### [v3.22.0629.5]()
 
 -  ✨: Bổ sung lý do khi xóa hddt của Viettel vào trường `reasonDelete`
