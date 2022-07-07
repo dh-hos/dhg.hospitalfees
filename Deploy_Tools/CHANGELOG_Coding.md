@@ -20,3 +20,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/53 [OK]
 -  🐛: In phiếu thu trên lưới chứng từ thu chi thiếu matracuu_hddt [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/51 [OK]
+-  ✨: Mở chức năng Viện phí dành riêng cho nhà thuốc đối với BV Nhi Đồng (TP Cần Thơ - 92003) [OK]

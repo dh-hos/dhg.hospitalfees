@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0707.1]()
+
+-  ✨: Mở chức năng Viện phí dành riêng cho nhà thuốc đối với BV Nhi Đồng (TP Cần Thơ - 92003)
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/51
+
 ##### [v3.22.0706.1]()
 
 -  🐛: In phiếu thu trên lưới chứng từ thu chi thiếu matracuu_hddt
