@@ -23,3 +23,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/51 [OK]
 -  ✨: Mở chức năng Viện phí dành riêng cho nhà thuốc đối với BV Nhi Đồng (TP Cần Thơ - 92003) [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/54 [OK]
+-  ✨: Áp dụng thêm tham số `vpnhathuoc`,`vpnhathuoc_khocp` đối với đối tượng BHYT và Trẻ em (lấy toàn bộ thông tin thuốc thuộc BHYT và thuốc Nhà thuốc theo cấu hình `vpnhathuoc_khocp`) [OK]
