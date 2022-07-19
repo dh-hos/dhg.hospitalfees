@@ -30,3 +30,7 @@
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/57 [OK]
 -  ✨: Đổi tiêu đề trên bảng kê biên lai [Dịch vụ (viện phí)] => [Chi phí (viện phí)],[Dịch vụ (nhà thuốc)] => [Chi phí (nhà thuốc)] [OK]
 -  🐛: Fix Bảng kê biên lai thể hiện âm chi phí viện phí khi có chi phí thuộc nhà thuốc [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/55 [OK]
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/58 [OK]
+-  🐛: Fees không tính được tiền của stent thứ 2 có số lượng lớn [OK]

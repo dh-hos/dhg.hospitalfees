@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0719.2]()
+
+-  🐛: Fees không tính được tiền của stent thứ 2 có số lượng lớn
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/58
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/55
+
 ##### [v3.22.0719.1]()
 
 -  🐛: Fix Bảng kê biên lai thể hiện âm chi phí viện phí khi có chi phí thuộc nhà thuốc
