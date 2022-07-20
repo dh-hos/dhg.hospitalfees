@@ -34,3 +34,6 @@
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/55 [OK]
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/58 [OK]
 -  🐛: Fees không tính được tiền của stent thứ 2 có số lượng lớn [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/55#issuecomment-1189693317 [OK]
+-  🐛: Fix trường hợp lập phiếu thu không theo tham số phieuthubnchuaxv [OK]
