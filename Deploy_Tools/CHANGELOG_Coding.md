@@ -37,3 +37,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/55#issuecomment-1189693317 [OK]
 -  🐛: Fix trường hợp lập phiếu thu không theo tham số phieuthubnchuaxv [OK]
+
+-  #️⃣: https://github.com/dh-hos/DH.HIS/issues/2 [OK]
+-  🐛: Bổ sung license mabvbh=77150 [OK]
