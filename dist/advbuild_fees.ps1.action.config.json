@@ -163,7 +163,9 @@
       "System.Net.Http.dll",
       "System.Net.Http.Formatting.dll",
       "OTH.PAY.ViettinBank.QRCode.dll",
-      "RestSharp.dll"
+      "RestSharp.dll",
+      "XtraRPT.dll",
+      "QRCoder.dll"
    ],
    "IsNewShortcut": true,
    "AdvancedInstallerShortcut": {
