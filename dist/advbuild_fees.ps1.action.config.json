@@ -161,7 +161,8 @@
       "OTH.PAY.SHB.Apis.dll",
       "API3.SDK.dll",
       "System.Net.Http.dll",
-      "System.Net.Http.Formatting.dll"
+      "System.Net.Http.Formatting.dll",
+      "OTH.PAY.ViettinBank.QRCode.dll"
    ],
    "IsNewShortcut": true,
    "AdvancedInstallerShortcut": {

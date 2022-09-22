@@ -2,6 +2,22 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0922.5]()
+
+-  ✨: Hỗ trợ thanh toán bằng QRCode - Viettinbank
+
+##### [v3.22.0922.4]()
+
+-  âœ¨:
+-  ðŸ›:
+-  #ï¸âƒ£:
+
+##### [v3.22.0922.3]()
+
+-  âœ¨:
+-  ðŸ›:
+-  #ï¸âƒ£:
+
 ##### [v3.22.0922.2]()
 
 -  ✨: Hỗ trợ thanh toán bằng QRCode - Viettinbank

@@ -47,3 +47,4 @@
 -  ✨: Bổ sung chức năng xóa hóa đơn điện tử đã thực hiện download từ cổng về (lần in hóa đơn kế tiếp sẽ download trực tiếp trên cổng lại) [OK]
 
 -  ✨: Hỗ trợ thanh toán bằng QRCode - Viettinbank [OK]
+-  ✨: Hỗ trợ thanh toán bằng QRCode - Viettinbank [OK]
