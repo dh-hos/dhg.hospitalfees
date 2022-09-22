@@ -48,3 +48,4 @@
 
 -  ✨: Hỗ trợ thanh toán bằng QRCode - Viettinbank [OK]
 -  ✨: Hỗ trợ thanh toán bằng QRCode - Viettinbank [OK]
+-  ✨: Thay đổi mã kết nối với QRCode - Viettinbank [OK]

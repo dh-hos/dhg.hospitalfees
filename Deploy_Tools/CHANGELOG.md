@@ -2,6 +2,10 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0922.14]()
+
+-  ✨: Thay đổi mã kết nối với QRCode - Viettinbank
+
 ##### [v3.22.0922.13]()
 
 -  ✨: Hỗ trợ thanh toán bằng QRCode - Viettinbank
