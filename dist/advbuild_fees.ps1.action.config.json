@@ -162,7 +162,8 @@
       "API3.SDK.dll",
       "System.Net.Http.dll",
       "System.Net.Http.Formatting.dll",
-      "OTH.PAY.ViettinBank.QRCode.dll"
+      "OTH.PAY.ViettinBank.QRCode.dll",
+      "RestSharp.dll"
    ],
    "IsNewShortcut": true,
    "AdvancedInstallerShortcut": {
