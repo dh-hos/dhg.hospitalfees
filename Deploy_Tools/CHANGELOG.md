@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0928.1]()
+
+-  ✨: Cập nhật bản quyền đối với Mã BV 87190 - BỆNH VIỆN DA LIỄU ĐỒNG THÁP
+-  #️⃣: https://github.com/dh-hos/DH.HIS/issues/4
+
 ##### [v3.22.0922.14]()
 
 -  ✨: Thay đổi mã kết nối với QRCode - Viettinbank

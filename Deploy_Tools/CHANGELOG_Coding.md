@@ -49,3 +49,6 @@
 -  ✨: Hỗ trợ thanh toán bằng QRCode - Viettinbank [OK]
 -  ✨: Hỗ trợ thanh toán bằng QRCode - Viettinbank [OK]
 -  ✨: Thay đổi mã kết nối với QRCode - Viettinbank [OK]
+
+-  #️⃣: https://github.com/dh-hos/DH.HIS/issues/4 [OK]
+-  ✨: Cập nhật bản quyền đối với Mã BV 87190 - BỆNH VIỆN DA LIỄU ĐỒNG THÁP [OK]
