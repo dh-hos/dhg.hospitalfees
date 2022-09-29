@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0929.4]()
+
+-  🐛: Fix Bảng kê miễn giảm ngoại trú không lấy được dữ liệu
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/76
+
 ##### [v3.22.0929.3]()
 
 -  🐛: Fix Thể hiện nhóm chi phí lại trên lưới CLS và thuốc (hạn chế cùng mã CLS hoặc thuốc, nhưng có thể chọn thu hay không trên phiếu thu). Lưu ý, những phiếu thu đã sai, phải xóa lập lại thì mới đúng chi phí lại.

@@ -61,3 +61,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/69 [OK]
 -  🐛: Fix Thể hiện nhóm chi phí lại trên lưới CLS và thuốc (hạn chế cùng mã CLS hoặc thuốc, nhưng có thể chọn thu hay không trên phiếu thu). Lưu ý, những phiếu thu đã sai, phải xóa lập lại thì mới đúng chi phí lại. [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/76 [OK]
+-  🐛: Fix Bảng kê miễn giảm ngoại trú không lấy được dữ liệu [OK]
