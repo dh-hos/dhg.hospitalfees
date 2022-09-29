@@ -70,3 +70,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/75 [OK]
 -  🐛: Fix lỗi thể hiện sai chi phí bệnh nhân khi chọn danh sách trên lưới bệnh nhân. [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/72 [OK]
+-  🐛: Fix lỗi thiếu thông tin phiếu thu khi sử dụng quét mã vạch tìm tên bệnh nhân và tự động in phiếu thu [OK]
