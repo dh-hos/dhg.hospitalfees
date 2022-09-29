@@ -55,3 +55,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/62 [OK]
 -  🐛: Fix lỗi Bảng kê tổng hợp theo dịch vụ load sai chi phí đối với chi phí thuộc Miễn chi trả và stent2 [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/68 [OK]
+-  🐛: Fix Thao tác chỉnh phiếu thu phần chênh lệch BHYT (sau khi chỉnh không thể tính đúng % đồng chi trả toàn bộ chi phí bệnh nhân) [OK]
