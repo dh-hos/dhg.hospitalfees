@@ -64,3 +64,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/76 [OK]
 -  🐛: Fix Bảng kê miễn giảm ngoại trú không lấy được dữ liệu [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/80 [OK]
+-  ✨: Thêm chức năng cấu hình cho phép bắt buộc nhập Quyển và ký hiệu trên form Tạm ứng, hoàn ứng (Menu->Tiện ích->Cấu hình tham số) ![](../MoTaThayDoi/HuongDan/Fees-Option_quyenKyhieu-TU-HU.png) [OK]
