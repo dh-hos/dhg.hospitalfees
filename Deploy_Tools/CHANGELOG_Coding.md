@@ -58,3 +58,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/68 [OK]
 -  🐛: Fix Thao tác chỉnh phiếu thu phần chênh lệch BHYT (sau khi chỉnh không thể tính đúng % đồng chi trả toàn bộ chi phí bệnh nhân) [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/69 [OK]
+-  🐛: Fix Thể hiện nhóm chi phí lại trên lưới CLS và thuốc (hạn chế cùng mã CLS hoặc thuốc, nhưng có thể chọn thu hay không trên phiếu thu). Lưu ý, những phiếu thu đã sai, phải xóa lập lại thì mới đúng chi phí lại. [OK]
