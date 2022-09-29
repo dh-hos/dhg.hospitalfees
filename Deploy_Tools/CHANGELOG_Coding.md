@@ -52,3 +52,6 @@
 
 -  #️⃣: https://github.com/dh-hos/DH.HIS/issues/4 [OK]
 -  ✨: Cập nhật bản quyền đối với Mã BV 87190 - BỆNH VIỆN DA LIỄU ĐỒNG THÁP [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/62 [OK]
+-  🐛: Fix lỗi Bảng kê tổng hợp theo dịch vụ load sai chi phí đối với chi phí thuộc Miễn chi trả và stent2 [OK]
