@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0929.6]()
+
+-  🐛: Fix lỗi thể hiện sai chi phí bệnh nhân khi chọn danh sách trên lưới bệnh nhân.
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/75
+
 ##### [v3.22.0929.5]()
 
 -  ✨: Thêm chức năng cấu hình cho phép bắt buộc nhập Quyển và ký hiệu trên form Tạm ứng, hoàn ứng (Menu->Tiện ích->Cấu hình tham số) ![](../MoTaThayDoi/HuongDan/Fees-Option_quyenKyhieu-TU-HU.png)

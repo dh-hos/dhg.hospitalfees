@@ -67,3 +67,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/80 [OK]
 -  ✨: Thêm chức năng cấu hình cho phép bắt buộc nhập Quyển và ký hiệu trên form Tạm ứng, hoàn ứng (Menu->Tiện ích->Cấu hình tham số) ![](../MoTaThayDoi/HuongDan/Fees-Option_quyenKyhieu-TU-HU.png) [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/75 [OK]
+-  🐛: Fix lỗi thể hiện sai chi phí bệnh nhân khi chọn danh sách trên lưới bệnh nhân. [OK]
