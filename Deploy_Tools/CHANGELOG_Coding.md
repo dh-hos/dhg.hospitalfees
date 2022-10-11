@@ -73,3 +73,5 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/72 [OK]
 -  🐛: Fix lỗi thiếu thông tin phiếu thu khi sử dụng quét mã vạch tìm tên bệnh nhân và tự động in phiếu thu [OK]
+
+-  ✨: Thêm chức năng kết nối thanh toán bằng máy POS Ung Bướu (Sacombank) [OK]

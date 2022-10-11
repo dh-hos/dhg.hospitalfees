@@ -2,6 +2,10 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1011.1]()
+
+-  ✨: Thêm chức năng kết nối thanh toán bằng máy POS Ung Bướu (Sacombank)
+
 ##### [v3.22.0929.7]()
 
 -  🐛: Fix lỗi thiếu thông tin phiếu thu khi sử dụng quét mã vạch tìm tên bệnh nhân và tự động in phiếu thu

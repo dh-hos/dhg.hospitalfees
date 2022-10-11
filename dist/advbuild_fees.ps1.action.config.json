@@ -23,7 +23,6 @@
    "IsRunRcUpload": true,
    "IsAddFileAPPDIR": true,
    "PathAdvancedInstallerAPPDIR": "..\\Deploy_Libraries",
-
    "APPDIRFilenames": [
       "BKKhongLayThuoc.dll",
       "ChuyenCPhi.dll",
@@ -165,7 +164,8 @@
       "OTH.PAY.ViettinBank.QRCode.dll",
       "RestSharp.dll",
       "XtraRPT.dll",
-      "QRCoder.dll"
+      "QRCoder.dll",
+      "OTH.XForms.v.1.2.dll"
    ],
    "IsNewShortcut": true,
    "AdvancedInstallerShortcut": {
