@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1012.1]()
+
+-  ✨: [Hướng dẫn triển khai](../MoTaThayDoi/PAYs/POS-UNGBUOU-SACOMBANK/huong-dan.md)
+-  ✨: Thêm chức năng kết nối thanh toán bằng máy POS Ung Bướu (Sacombank) [](<../MoTaThayDoi/PAYs/POS-UNGBUOU-SACOMBANK/INGENICO_ECR%20(Web_COM%20RS232)%20Generic%20Guide_V203_05Mar2018.pdf>)
+
 ##### [v3.22.1011.1]()
 
 -  ✨: Thêm chức năng kết nối thanh toán bằng máy POS Ung Bướu (Sacombank)
