@@ -2,6 +2,10 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1018.1]()
+
+-  ✨: Thêm chức năng chọn chứng từ thể hiện QR-Code ra màn hình thứ 2 được kết nối với máy tính hiện tại
+
 ##### [v3.22.1012.1]()
 
 -  ✨: [Hướng dẫn triển khai](../MoTaThayDoi/PAYs/POS-UNGBUOU-SACOMBANK/huong-dan.md)
