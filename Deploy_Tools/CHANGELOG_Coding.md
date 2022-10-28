@@ -87,3 +87,6 @@
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/85 [OK]
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/88 [OK]
 -  ✨: Bổ sung thêm chức năng lấy lại thông tin hóa đơn đã lập dựa vào Ikey với HDDT Softdream. Nếu lập lỗi, sẽ kiểm tra nếu Ikey đã tồn tại trên hệ thống thì lấy thông tin hóa đơn để cập nhật vào hệ thống.![](../MoTaThayDoi/HuongDan/Hddt-Softdream-LayLaiThongtinHoaDon-TheoIKey.png) [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/87 [OK]
+-  🐛: Fix chức năng đồng bộ hóa đơn điện tử cuối ngày theo cấu hình riêng cho nhà thuốc [OK]
