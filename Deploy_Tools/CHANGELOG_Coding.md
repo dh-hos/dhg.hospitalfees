@@ -83,3 +83,7 @@
 -  ✨: Bổ sung hình thức thanh toán trên Bảng kê biên lai đối với mã bệnh viện: `92086` - Ung Bướu Cần Thơ ![](../MoTaThayDoi/HuongDan/BangKeBL-ThemHinhThucThanhToan.png) [OK]
 
 -  ✨: Bổ sung báo cáo thu tiền qua POS ![](../MoTaThayDoi/PAYs/POS-UNGBUOU-SACOMBANK/pay-pos-ungbuou-cauhinhhis-05.png)![](../MoTaThayDoi/PAYs/POS-UNGBUOU-SACOMBANK/pay-pos-ungbuou-cauhinhhis-06.png)![](../MoTaThayDoi/PAYs/POS-UNGBUOU-SACOMBANK/pay-pos-ungbuou-cauhinhhis-07.png) [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/85 [OK]
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/88 [OK]
+-  ✨: Bổ sung thêm chức năng lấy lại thông tin hóa đơn đã lập dựa vào Ikey với HDDT Softdream. Nếu lập lỗi, sẽ kiểm tra nếu Ikey đã tồn tại trên hệ thống thì lấy thông tin hóa đơn để cập nhật vào hệ thống.![](../MoTaThayDoi/HuongDan/Hddt-Softdream-LayLaiThongtinHoaDon-TheoIKey.png) [OK]
