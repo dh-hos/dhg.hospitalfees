@@ -102,3 +102,6 @@
 
 -  🐛: Fix lỗi không gửi dongia, soluong, dvt đối với trường hợp phiếu thu tự do khi gửi hddt (VAT) [OK]
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/83 [OK]
+
+-  🐛: Fix lỗi thể hiện check Loại Khách hàng (Công ty,D.nghiệp) trên phiếu thu tự do [OK]
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/82 [OK]

@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1029.4]()
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/82
+-  🐛: Fix lỗi thể hiện check Loại Khách hàng (Công ty,D.nghiệp) trên phiếu thu tự do
+
 ##### [v3.22.1029.3]()
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/83
