@@ -2,6 +2,13 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1029.1]()
+
+-  ✨: ![](../MoTaThayDoi/HuongDan/Hddt-Ghi-nhat-ky-cau-hinh.png)
+-  ✨: Nội dung thay đổi theo dạng json:
+-  ✨: Bổ sung chức năng ghi nhật ký khi chỉnh thông tin cấu hình hóa đơn điện tử (tác vụ: Chỉnh cấu hình hóa đơn điện tử - HĐĐT) khi có thay đổi trên form cấu hình
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/86
+
 ##### [v3.22.1028.2]()
 
 -  🐛: Fix chức năng đồng bộ hóa đơn điện tử cuối ngày theo cấu hình riêng cho nhà thuốc

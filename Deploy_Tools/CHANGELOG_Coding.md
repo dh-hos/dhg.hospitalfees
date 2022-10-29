@@ -90,3 +90,9 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/87 [OK]
 -  🐛: Fix chức năng đồng bộ hóa đơn điện tử cuối ngày theo cấu hình riêng cho nhà thuốc [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/86 [OK]
+-  ✨: Bổ sung chức năng ghi nhật ký khi chỉnh thông tin cấu hình hóa đơn điện tử (tác vụ: Chỉnh cấu hình hóa đơn điện tử - HĐĐT) khi có thay đổi trên form cấu hình [OK]
+-  ✨: Nội dung thay đổi theo dạng json: [OK]
+   `{ "OptionApiVnpt": { "UrlPortalService": { "+": "https://ttythuyenthanhbinh-tt78admin.vnpt-invoice.com.vn/PortalService.asmx3", "-": "https://ttythuyenthanhbinh-tt78admin.vnpt-invoice.com.vn/PortalService.asmx" } } }`
+-  ✨: ![](../MoTaThayDoi/HuongDan/Hddt-Ghi-nhat-ky-cau-hinh.png) [OK]
