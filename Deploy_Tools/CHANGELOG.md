@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1029.3]()
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/83
+-  🐛: Fix lỗi không gửi dongia, soluong, dvt đối với trường hợp phiếu thu tự do khi gửi hddt (VAT)
+
 ##### [v3.22.1029.2]()
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/84

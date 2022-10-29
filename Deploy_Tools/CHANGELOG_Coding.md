@@ -99,3 +99,6 @@
 
 -  🐛: Nguyên nhân âm tiền do ảnh hưởng của xử lý cận lâm sàng thuộc ktcao => Bỏ xử lý theo ktcao trong bảng chidinhcls (Đã không còn phù hợp) [OK]
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/84 [OK]
+
+-  🐛: Fix lỗi không gửi dongia, soluong, dvt đối với trường hợp phiếu thu tự do khi gửi hddt (VAT) [OK]
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/83 [OK]
