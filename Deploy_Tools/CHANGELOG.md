@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1110.1]()
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/95
+-  ✨: Hỗ trợ xử lý index đối với HĐĐT VAT (trong chi tiết hóa đơn)
+
 ##### [v3.22.1103.1]()
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/90

@@ -108,3 +108,6 @@
 
 -  ✨: Bổ sung thêm tab Chi tiết theo biên lai - Lao Phổi ĐT đặc thù đối với mabvbh=87115, phần CPVC chưa đưa lên sẽ thấy theo kho CV, CV2, VTYT, lấy theo kho 03, Máu lấy theo kho 02, Oxy lấy theo Kho thuốc 01 và thuộc manhom=30, phần còn lại đưa tất cả vào thuốc (điều kiện kho chính là dmthuoc.kho).![Alt text](../MoTaThayDoi/HuongDan/BangKe-ChitietTheoBN-87115.png) [OK]
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/90 [OK]
+
+-  ✨: Hỗ trợ xử lý index đối với HĐĐT VAT (trong chi tiết hóa đơn) [OK]
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/95 [OK]
