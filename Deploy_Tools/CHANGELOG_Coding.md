@@ -111,3 +111,10 @@
 
 -  ✨: Hỗ trợ xử lý index đối với HĐĐT VAT (trong chi tiết hóa đơn) [OK]
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/95 [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/101 [OK]
+-  ✨: Bổ sung nút in tự thiết kế trên form phiếu chi ![Alt text](../MoTaThayDoi/HuongDan/PhieuChi-InTuThietKe.png) [OK]
+
+-  🐛: Thể hiện đúng số tiền tạm ứng còn lại khi thể hiện QR ra tivi [OK]
+-  🐛: Thể hiện số tiền tạm ứng ra tivi để thanh toán QR [OK]
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/102 [OK]
