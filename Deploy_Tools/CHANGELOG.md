@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1201.2]()
+
+-  ✨: Bổ sung cột thể hiện số tiền thanh toán qua POS trên bảng kê thu chi - tab Tổng hợp ![Alt text](../MoTaThayDoi/HuongDan/BangKeThuChi-TabTonghop-ThanhtoanPay.png)
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/103
+
 ##### [v3.22.1201.1]()
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/102

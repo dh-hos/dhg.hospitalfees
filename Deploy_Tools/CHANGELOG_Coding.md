@@ -118,3 +118,6 @@
 -  🐛: Thể hiện đúng số tiền tạm ứng còn lại khi thể hiện QR ra tivi [OK]
 -  🐛: Thể hiện số tiền tạm ứng ra tivi để thanh toán QR [OK]
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/102 [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/103 [OK]
+-  ✨: Bổ sung cột thể hiện số tiền thanh toán qua POS trên bảng kê thu chi - tab Tổng hợp ![Alt text](../MoTaThayDoi/HuongDan/BangKeThuChi-TabTonghop-ThanhtoanPay.png) [OK]
