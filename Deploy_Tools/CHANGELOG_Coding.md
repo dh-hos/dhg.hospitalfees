@@ -124,3 +124,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/104 [OK]
 -  ✨: Bổ sung control cho phép nhập hình thức thanh toán trên Form tạm ứng, và bảng kê tạm ứng thể hiện thêm cột hình thức thanh toán ![Alt text](../MoTaThayDoi/HuongDan/TamUng-HTTT-0.png) ![Alt text](../MoTaThayDoi/HuongDan/TamUng-HTTT-1.png) [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/105 [OK]
+-  🐛: Cấn trừ tiền tạm ứng khi thanh toán bằng máy POS [OK]

@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1202.1]()
+
+-  🐛: Cấn trừ tiền tạm ứng khi thanh toán bằng máy POS
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/105
+
 ##### [v3.22.1201.3]()
 
 -  ✨: Bổ sung control cho phép nhập hình thức thanh toán trên Form tạm ứng, và bảng kê tạm ứng thể hiện thêm cột hình thức thanh toán ![Alt text](../MoTaThayDoi/HuongDan/TamUng-HTTT-0.png) ![Alt text](../MoTaThayDoi/HuongDan/TamUng-HTTT-1.png)
