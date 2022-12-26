@@ -127,3 +127,7 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalfees/issues/105 [OK]
 -  🐛: Cấn trừ tiền tạm ứng khi thanh toán bằng máy POS [OK]
+
+-  ✨: Cập nhật bản quyền đối với Mã BV 92137; 77154 [OK]
+-  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/25 [OK]
+-  #️⃣: https://github.com/dh-hos/Mo-ta-he-thong/issues/21 [OK]
