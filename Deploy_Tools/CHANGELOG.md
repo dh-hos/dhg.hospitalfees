@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0109.1]()
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/27
+-  ✨: Cập nhật bản quyền đối với Mã BV 87192; 87196
+
 ##### [v3.22.1226.1]()
 
 -  #️⃣: https://github.com/dh-hos/Mo-ta-he-thong/issues/21
