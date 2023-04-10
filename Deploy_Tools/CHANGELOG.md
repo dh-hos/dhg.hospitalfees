@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0410.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/119>
+- ✨: Thêm hình thức thanh toán trên bảng kê biên lai (để hỗ trợ lọc theo httt)
+
 ##### [v3.23.0308.3]()
 
 -  âœ¨:
