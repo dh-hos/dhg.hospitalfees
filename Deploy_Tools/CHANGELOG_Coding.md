@@ -137,3 +137,6 @@
 
 - ✨: Thêm hình thức thanh toán trên bảng kê biên lai (để hỗ trợ lọc theo httt) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/119> [OK]
+
+- 🐛: Fix lỗi: Ghi nợ bệnh nhân có BANT theo đợt [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/117> [OK]

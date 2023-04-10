@@ -2,6 +2,10 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0410.2]()
+
+- 🐛: Fix lỗi: Ghi nợ bệnh nhân có BANT theo đợt
+
 ##### [v3.23.0410.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/119>
