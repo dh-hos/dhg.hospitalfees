@@ -140,3 +140,6 @@
 
 - 🐛: Fix lỗi: Ghi nợ bệnh nhân có BANT theo đợt [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/117> [OK]
+
+- 🐛: Fix lỗi: Tạo HDDT cho phiếu thu đã xóa. Thực hiện kiểm tra những phiếu thu đã xóa sẽ không đồng bộ HĐĐT. [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/114> [OK]

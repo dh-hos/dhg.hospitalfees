@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0410.3]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/114>
+- 🐛: Fix lỗi: Tạo HDDT cho phiếu thu đã xóa. Thực hiện kiểm tra những phiếu thu đã xóa sẽ không đồng bộ HĐĐT.
+
 ##### [v3.23.0410.2]()
 
 - 🐛: Fix lỗi: Ghi nợ bệnh nhân có BANT theo đợt
