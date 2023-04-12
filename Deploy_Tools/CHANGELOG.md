@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0412.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hosptaltreatment/issues/65>
+- #️⃣: <https://github.com/dh-hos/Mo-ta-he-thong/issues/22>
+- ✨: Thực hiện - Ghi nhận MỨC HƯỞNG chi phí BHYT của người bệnh khi áp NGÀY MIỄN CÙNG CHI TRẢ theo thẻ BHYT và áp dụng cách tính khi có ngày kết thúc miễn chi trả.
+
 ##### [v3.23.0410.3]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/114>

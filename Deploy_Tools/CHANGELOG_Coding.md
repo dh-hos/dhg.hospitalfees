@@ -143,3 +143,7 @@
 
 - 🐛: Fix lỗi: Tạo HDDT cho phiếu thu đã xóa. Thực hiện kiểm tra những phiếu thu đã xóa sẽ không đồng bộ HĐĐT. [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/114> [OK]
+
+- ✨: Thực hiện - Ghi nhận MỨC HƯỞNG chi phí BHYT của người bệnh khi áp NGÀY MIỄN CÙNG CHI TRẢ theo thẻ BHYT và áp dụng cách tính khi có ngày kết thúc miễn chi trả. [OK]
+- #️⃣: <https://github.com/dh-hos/Mo-ta-he-thong/issues/22> [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hosptaltreatment/issues/65> [OK]
