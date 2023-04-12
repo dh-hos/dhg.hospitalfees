@@ -95,7 +95,7 @@
 - ✨: Bổ sung chức năng ghi nhật ký khi chỉnh thông tin cấu hình hóa đơn điện tử (tác vụ: Chỉnh cấu hình hóa đơn điện tử - HĐĐT) khi có thay đổi trên form cấu hình [OK]
 - ✨: Nội dung thay đổi theo dạng json: [OK]
    `{ "OptionApiVnpt": { "UrlPortalService": { "+": "https://ttythuyenthanhbinh-tt78admin.vnpt-invoice.com.vn/PortalService.asmx3", "-": "https://ttythuyenthanhbinh-tt78admin.vnpt-invoice.com.vn/PortalService.asmx" } } }`
-- ✨: ![](../MoTaThayDoi/HuongDan/Hddt-Ghi-nhat-ky-cau-hinh.png) [OK]
+- ✨: ![Alternate text](../MoTaThayDoi/HuongDan/Hddt-Ghi-nhat-ky-cau-hinh.png) [OK]
 
 - 🐛: Nguyên nhân âm tiền do ảnh hưởng của xử lý cận lâm sàng thuộc ktcao => Bỏ xử lý theo ktcao trong bảng chidinhcls (Đã không còn phù hợp) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/84> [OK]
@@ -137,13 +137,16 @@
 
 - ✨: Thêm hình thức thanh toán trên bảng kê biên lai (để hỗ trợ lọc theo httt) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/119> [OK]
-
+>
 - 🐛: Fix lỗi: Ghi nợ bệnh nhân có BANT theo đợt [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/117> [OK]
-
+>
 - 🐛: Fix lỗi: Tạo HDDT cho phiếu thu đã xóa. Thực hiện kiểm tra những phiếu thu đã xóa sẽ không đồng bộ HĐĐT. [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/114> [OK]
-
+>
 - ✨: Thực hiện - Ghi nhận MỨC HƯỞNG chi phí BHYT của người bệnh khi áp NGÀY MIỄN CÙNG CHI TRẢ theo thẻ BHYT và áp dụng cách tính khi có ngày kết thúc miễn chi trả. [OK]
 - #️⃣: <https://github.com/dh-hos/Mo-ta-he-thong/issues/22> [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hosptaltreatment/issues/65> [OK]
+>
+- 🐛: Fix lỗi: BC Bảng kê chi tiết theo bệnh nhân (Tổng hợp & nội trú) lệch tiền so với phiếu thu [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/121> [OK]

@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0412.2]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/121>
+- 🐛: Fix lỗi: BC Bảng kê chi tiết theo bệnh nhân (Tổng hợp & nội trú) lệch tiền so với phiếu thu
+
 ##### [v3.23.0412.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hosptaltreatment/issues/65>
