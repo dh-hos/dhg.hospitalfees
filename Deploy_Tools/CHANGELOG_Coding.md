@@ -150,3 +150,6 @@
 >
 - 🐛: Fix lỗi: BC Bảng kê chi tiết theo bệnh nhân (Tổng hợp & nội trú) lệch tiền so với phiếu thu [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/121> [OK]
+>
+- 🐛: Fix lỗi: Không in hoàn ứng được. [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/122> [OK]

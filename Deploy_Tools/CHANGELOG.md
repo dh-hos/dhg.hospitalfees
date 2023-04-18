@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0418.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/122>
+- 🐛: Fix lỗi: Không in hoàn ứng được.
+
 ##### [v3.23.0412.2]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/121>
