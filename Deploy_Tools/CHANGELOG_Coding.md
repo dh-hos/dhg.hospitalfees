@@ -153,3 +153,6 @@
 >
 - 🐛: Fix lỗi: Không in hoàn ứng được. [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/122> [OK]
+>
+- 🐛: Fix lỗi: Không in phiếu thu tự thiết kế. [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/123> [OK]
