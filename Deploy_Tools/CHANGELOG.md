@@ -2,6 +2,10 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0531.1]()
+
+- ✨: Cập nhật chức năng tính tiền dịch vụ và tiền thường khi có miễn giảm, hiện tại toàn bộ miễn giảm sẽ cấn trừ vào tiền thường, fix lại nếu tiền thường nhỏ hơn tiền miễn giảm sẽ cấn trừ thêm qua phần dịch vụ. 
+
 ##### [v3.23.0504.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/123>

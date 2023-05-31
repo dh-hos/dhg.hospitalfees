@@ -156,3 +156,5 @@
 >
 - 🐛: Fix lỗi: Không in phiếu thu tự thiết kế. [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/123> [OK]
+>
+- ✨: Cập nhật chức năng tính tiền dịch vụ và tiền thường khi có miễn giảm, hiện tại toàn bộ miễn giảm sẽ cấn trừ vào tiền thường, fix lại nếu tiền thường nhỏ hơn tiền miễn giảm sẽ cấn trừ thêm qua phần dịch vụ.  [OK]
