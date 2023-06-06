@@ -158,3 +158,6 @@
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/123> [OK]
 >
 - ✨: Cập nhật chức năng tính tiền dịch vụ và tiền thường khi có miễn giảm, hiện tại toàn bộ miễn giảm sẽ cấn trừ vào tiền thường, fix lại nếu tiền thường nhỏ hơn tiền miễn giảm sẽ cấn trừ thêm qua phần dịch vụ.  [OK]
+>
+- ✨: Cập nhật Lisence `77156` [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/42#issuecomment-1578201157> [OK]
