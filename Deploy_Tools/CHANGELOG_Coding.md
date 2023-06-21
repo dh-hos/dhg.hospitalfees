@@ -161,3 +161,6 @@
 >
 - ✨: Cập nhật Lisence `77156` [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/42#issuecomment-1578201157> [OK]
+>
+- ✨: Cập nhật Lisence `77155` [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/43> [OK]
