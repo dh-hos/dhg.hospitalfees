@@ -167,3 +167,5 @@
 >
 - ✨: Cập nhật Lisence `92117` [OK]
 - #️⃣: <https://github.com/dh-hos/Mo-ta-he-thong/issues/25> [OK]
+>
+- ✨: Thêm chức năng ký số thông qua USB khi kết nối Hddt MISA (Mỗi máy con phải có usb ký số kết nối trực tiếp khi lập hóa đơn) ![Alt text](../MoTaThayDoi/HuongDan/Hddt-Misa-KySoUSB.png) [OK]
