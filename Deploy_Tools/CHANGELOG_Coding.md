@@ -171,3 +171,5 @@
 - ✨: Thêm chức năng ký số thông qua USB khi kết nối Hddt MISA (Mỗi máy con phải có usb ký số kết nối trực tiếp khi lập hóa đơn) ![Alt text](../MoTaThayDoi/HuongDan/Hddt-Misa-KySoUSB.png) [OK]
 >
 - ✨: Bổ sung chức năng thanh toán QRCode đối với bệnh viện Tim Mạch CT (92001) [OK]
+>
+- 🐛: Fix lỗi bảng kê biên lai đối với phiếu thu nhà thuốc đối với bệnh viện Tim Mạch CT (92001)  [OK]
