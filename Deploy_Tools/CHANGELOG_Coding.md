@@ -173,3 +173,6 @@
 - ✨: Bổ sung chức năng thanh toán QRCode đối với bệnh viện Tim Mạch CT (92001) [OK]
 >
 - 🐛: Fix lỗi bảng kê biên lai đối với phiếu thu nhà thuốc đối với bệnh viện Tim Mạch CT (92001)  [OK]
+>
+- 🐛: Fix lỗi Bảng kê thu chi đối với phiếu thu nhà thuốc đối với bệnh viện Tim Mạch CT (92001) [OK]
+
