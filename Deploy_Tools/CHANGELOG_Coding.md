@@ -177,3 +177,6 @@
 - 🐛: Fix lỗi Bảng kê thu chi đối với phiếu thu nhà thuốc đối với bệnh viện Tim Mạch CT (92001) [OK]
 >
 - ✨: Bổ sung thanh toán Thẻ VietinBank (84006) [OK]
+>
+- ✨: Bổ sung chức năng đưa thông tin thuế suất khi đưa hddt MISA![Alt text](../MoTaThayDoi/HuongDan/Hddt-Misa-ThueSuat-01.png)![Alt text](../MoTaThayDoi/HuongDan/Hddt-Misa-ThueSuat-02.png) [OK]
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/67> [OK]
