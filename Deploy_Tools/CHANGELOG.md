@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0908.1]()
+
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/67> 
+- ✨: Điều chỉnh VATRateName = "KCT" đối với hóa đơn giá trị gia tăng hông có thuế
+- ✨: Bổ sung chức năng đưa thông tin thuế suất khi đưa hddt MISA![Alt text](../MoTaThayDoi/HuongDan/Hddt-Misa-ThueSuat-01.png)![Alt text](../MoTaThayDoi/HuongDan/Hddt-Misa-ThueSuat-02.png)
+
 ##### [v3.23.0906.1]()
 
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/67>
