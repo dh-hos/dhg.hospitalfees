@@ -181,3 +181,6 @@
 - ✨: Bổ sung chức năng đưa thông tin thuế suất khi đưa hddt MISA![Alt text](../MoTaThayDoi/HuongDan/Hddt-Misa-ThueSuat-01.png)![Alt text](../MoTaThayDoi/HuongDan/Hddt-Misa-ThueSuat-02.png) [OK]
 - ✨: Điều chỉnh VATRateName = "KCT" đối với hóa đơn giá trị gia tăng hông có thuế [OK]
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/67>  [OK]
+>
+- 🐛: Fix tính sai chi stent2 đối với đối tượng thu phí trên bảng kê chi tiết và tổng hợp theo bệnh nhân [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/130> [OK]

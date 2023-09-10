@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0910.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/130>
+- 🐛: Fix tính sai chi stent2 đối với đối tượng thu phí trên bảng kê chi tiết và tổng hợp theo bệnh nhân
+
 ##### [v3.23.0908.1]()
 
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/67> 
