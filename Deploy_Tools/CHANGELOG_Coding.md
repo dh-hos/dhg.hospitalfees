@@ -184,3 +184,6 @@
 >
 - 🐛: Fix tính sai chi stent2 đối với đối tượng thu phí trên bảng kê chi tiết và tổng hợp theo bệnh nhân [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/130> [OK]
+>
+- 🐛: Fix xóa hóa đơn tổng không xóa được chi tiết. Hướng xử lý kiểm tra nếu không có phiếu thu thì cảnh báo lấy lại dữ liệu trước khi xóa. [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/129> [OK]

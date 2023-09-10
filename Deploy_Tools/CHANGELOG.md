@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0910.2]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/129>
+- 🐛: Fix xóa hóa đơn tổng không xóa được chi tiết. Hướng xử lý kiểm tra nếu không có phiếu thu thì cảnh báo lấy lại dữ liệu trước khi xóa.
+
 ##### [v3.23.0910.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/130>
