@@ -190,3 +190,6 @@
 >
 - 🐛: Fix Lỗi - Sai giới tính báo cáo tổng hợp - Viện phí thu tiền dịch vụ [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/127> [OK]
+>
+- 🐛: Fix Lỗi - BV Sa Đéc: Thu phí 1đ bệnh nhân có chi phí nguồn khác [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/100> [OK]

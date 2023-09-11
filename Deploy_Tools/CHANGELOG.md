@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0911.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/100>
+- 🐛: Fix Lỗi - BV Sa Đéc: Thu phí 1đ bệnh nhân có chi phí nguồn khác
+
 ##### [v3.23.0910.3]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/127>
