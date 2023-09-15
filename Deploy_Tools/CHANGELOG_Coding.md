@@ -193,3 +193,6 @@
 >
 - 🐛: Fix Lỗi - BV Sa Đéc: Thu phí 1đ bệnh nhân có chi phí nguồn khác [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/100> [OK]
+>
+- 🐛: Fix Lỗi - Đồng Tâm - Báo cáo viện phí > Chi tiết theo dịch vụ > tiền thuốc x2 [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/139> [OK]
