@@ -196,3 +196,6 @@
 >
 - 🐛: Fix Lỗi - Đồng Tâm - Báo cáo viện phí > Chi tiết theo dịch vụ > tiền thuốc x2 [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalfees/issues/139> [OK]
+>
+- ✨: Thực hiện: Yêu cầu - Encode nội dung xóa hóa đơn Viettel. Bổ sung UrlEncode lý do khi thực hiện xóa hddt trên hệ thống Viettel. [OK]
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/82> [OK]

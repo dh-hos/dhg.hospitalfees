@@ -2,11 +2,10 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
-##### [v3.23.0925.1]()
+##### [v3.23.0925.2]()
 
--  âœ¨:
--  ðŸ›:
--  #ï¸âƒ£:
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/82>
+- ✨: Thực hiện: Yêu cầu - Encode nội dung xóa hóa đơn Viettel. Bổ sung UrlEncode lý do khi thực hiện xóa hddt trên hệ thống Viettel.
 
 ##### [v3.23.0915.1]()
 
