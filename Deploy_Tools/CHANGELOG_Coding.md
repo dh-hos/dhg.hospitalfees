@@ -199,3 +199,7 @@
 >
 - ✨: Thực hiện: Yêu cầu - Encode nội dung xóa hóa đơn Viettel. Bổ sung UrlEncode lý do khi thực hiện xóa hddt trên hệ thống Viettel. [OK]
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/82> [OK]
+>
+- ✨: Thực hiện: Yêu cầu - Lập hóa đơn điện tử chi tiết tại form Thu CLS tự do trên Fees. [OK]
+- ✨: Thêm chức năng cho phép lập hóa đơn điện tử với chi tiết chi phí (nhiều dòng hàng hóa) không theo cấu hình tham số.![Alt text](../MoTaThayDoi/HuongDan/Hddt-ChiTiet-ChiPhi.png) [OK]
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/57> [OK]
