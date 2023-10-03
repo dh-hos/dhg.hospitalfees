@@ -1,5 +1,5 @@
 ---
-name: Ghi nhận lỗi
+name: test Ghi nhận lỗi
 about: Mẫu ghi nhận thông tin chi tiết lỗi
 title: 'Lỗi - '
 labels: 2. Bình thường
