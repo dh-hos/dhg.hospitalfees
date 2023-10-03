@@ -4,7 +4,7 @@ about: Mẫu ghi nhận thông tin chi tiết lỗi
 title: 'Lỗi - '
 labels: 2. Bình thường
 assignees: ongtrieuhau
-projects: ["https://github.com/orgs/dh-hos/projects/21", "octo-org/44"]
+projects: ["dh-hos/projects/21"]
 body:
   -type: markdown
   attributes:
