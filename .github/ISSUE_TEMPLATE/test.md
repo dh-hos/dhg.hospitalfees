@@ -5,7 +5,14 @@ title: 'Lỗi - '
 labels: 2. Bình thường
 assignees: ongtrieuhau
 projects: ["https://github.com/orgs/dh-hos/projects/21", "octo-org/44"]
+body:
+  -type: markdown
+  attributes:
+    value: |
+      Thanks for taking the time to fill out this bug report!
 ---
+
+
 body:
   - type: markdown
     attributes:
