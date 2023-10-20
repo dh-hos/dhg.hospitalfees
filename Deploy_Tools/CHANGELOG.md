@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.1020.1]()
+
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/57>
+- 🐛: Yêu cầu - Lập hóa đơn điện tử chi tiết tại form Thu CLS tự do trên Fees
+
 ##### [v3.23.1016.4]()
 
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/126>

@@ -206,3 +206,6 @@
 >
 - ✨: Yêu cầu - Cấp license thêm mã đơn vị triển khai mới - BV Đa Khoa Tâm Minh Đức Tiền Giang [OK]
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/126> [OK]
+>
+- 🐛: Yêu cầu - Lập hóa đơn điện tử chi tiết tại form Thu CLS tự do trên Fees [OK]
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/57> [OK]
