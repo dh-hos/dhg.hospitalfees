@@ -211,3 +211,4 @@
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/57> [OK]
 >
 - 🐛: Lỗi cảnh báo phiếu thu nội bộ không phù hợp (92118) [OK]
+- 🐛: Chọn loại biên lai mặc định khi thêm chứng từ [OK]
