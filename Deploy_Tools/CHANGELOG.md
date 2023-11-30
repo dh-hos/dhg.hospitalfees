@@ -2,6 +2,10 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.1130.1]()
+
+- 🐛: Lỗi cảnh báo phiếu thu nội bộ không phù hợp (92118)
+
 ##### [v3.23.1020.1]()
 
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/57>

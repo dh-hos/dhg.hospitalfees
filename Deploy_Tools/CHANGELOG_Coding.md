@@ -209,3 +209,5 @@
 >
 - 🐛: Yêu cầu - Lập hóa đơn điện tử chi tiết tại form Thu CLS tự do trên Fees [OK]
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/57> [OK]
+>
+- 🐛: Lỗi cảnh báo phiếu thu nội bộ không phù hợp (92118) [OK]
