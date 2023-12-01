@@ -212,3 +212,5 @@
 >
 - 🐛: Lỗi cảnh báo phiếu thu nội bộ không phù hợp (92118) [OK]
 - 🐛: Chọn loại biên lai mặc định khi thêm chứng từ [OK]
+>
+- ✨: Thêm bảng kê chi tiết chi phí nội bộ theo CLS ![Alt text](../MoTaThayDoi/HuongDan/BangKeBL-CPNoibo.png) [OK]
