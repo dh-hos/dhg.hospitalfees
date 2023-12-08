@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.1208.1]()
+
+- ✨: Bổ sung in chi tiết theo từng loại chi phí trên tab Chi tiết nội bộ (đây là mẫu tự thiết kế, đăng nhập bằng tài khoản admin để được phép thiết kế trang in này) ![Alt text](../MoTaThayDoi/HuongDan/BangKeBL-CPNoibo-0.png)
+- ✨: Bổ sung cột tiền thanh toán không tiền mặt lên bảng kê biên lai nội bộ ![Alt text](../MoTaThayDoi/HuongDan/BangKeBL-CPNoibo-pay.png)
+
 ##### [v3.23.1201.1]()
 
 - ✨: Thêm bảng kê chi tiết chi phí nội bộ theo CLS ![Alt text](../MoTaThayDoi/HuongDan/BangKeBL-CPNoibo.png)
