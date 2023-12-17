@@ -12,3 +12,8 @@ jobs:
         uses: crazy-max/ghaction-chocolatey@v3
         with:
           args: -h
+      -
+        name: CallBash3
+        shell: bash
+        run: |
+          choco --version
