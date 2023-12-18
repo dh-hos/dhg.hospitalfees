@@ -2,6 +2,10 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.1218.1]()
+
+- 🐛: Lỗi bảng kê thu chi nội bộ (chi tiết) double chi phí (92118)
+
 ##### [v3.23.1208.1]()
 
 - ✨: Bổ sung in chi tiết theo từng loại chi phí trên tab Chi tiết nội bộ (đây là mẫu tự thiết kế, đăng nhập bằng tài khoản admin để được phép thiết kế trang in này) ![Alt text](../MoTaThayDoi/HuongDan/BangKeBL-CPNoibo-0.png)

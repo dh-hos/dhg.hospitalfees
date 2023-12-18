@@ -1,5 +1,5 @@
 name: Checkout then build AdvancedInstaller
-on: []
+on: [push]
 jobs:
    hello_world_job:
       runs-on: win10-64-DESKTOP-D7R136C
