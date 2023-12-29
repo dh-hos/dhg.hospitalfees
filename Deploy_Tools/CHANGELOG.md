@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.1229.1]()
+
+-  âœ¨:
+-  ðŸ›:
+-  #ï¸âƒ£:
+
 ##### [v3.23.1218.1]()
 
 - 🐛: Lỗi bảng kê thu chi nội bộ (chi tiết) double chi phí (92118)
@@ -454,3 +460,5 @@
 ##### [v3.22.0623.1]()
 
 -  ✨: Bổ sung theo dõi nội dung cập nhật module Fees [tại đây](https://github.com/dh-hos/dhg.hospitalfees/blob/main/Deploy_Tools/CHANGELOG.md)
+
+

@@ -4,7 +4,8 @@
    "PathAdvancedInstallerCommandFile": "..\\Deploy_Tools\\BuildCommandFile.githubignore.txt",
    "PathAdvancedInstallerProjectFile": "..\\Deploy_Tools\\Setup.aip",
    "PathAdvancedInstallerOutputFolder": "..\\Deploy_Tools\\OutputFiles",
-   "PathAdvancedInstallerExecuter": "C:\\Program Files (x86)\\Caphyon\\Advanced Installer 19.1\\bin\\x86\\advinst.exe",
+   "PathAdvancedInstallerExecuter": "C:\\Program Files (x86)\\Caphyon\\Advanced Installer 21.3\\bin\\x86\\advinst.exe",
+   "PathAdvancedInstallerExecuter2": "C:\\Program Files (x86)\\Caphyon\\Advanced Installer 19.1\\bin\\x86\\advinst.exe",
    "ProductDetail": {
       "ProductName": "DHG.Hospital Fees",
       "Manufacturer": "DHG Pharma",
