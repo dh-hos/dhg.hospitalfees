@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.24.0125.3]()
+
+-  âœ¨:
+-  ðŸ›:
+-  #ï¸âƒ£:
+
 ##### [v3.24.0125.2]()
 
 -  âœ¨:
